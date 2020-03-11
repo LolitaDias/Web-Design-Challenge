@@ -12,6 +12,11 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ### Questions
 
+1. Develop a webpage presenting a summary of the project and the four associated visualizations.
+2. Develop four webpages each presenting an individual visualization along with its associated analysis.
+3. Develop a webpage presenting a comparison of the four visualizations.
+4. Develop a webpage presenting a table of the raw data used to create the four visualizations.
+
 
 
 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
