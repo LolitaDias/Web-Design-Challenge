@@ -2,9 +2,11 @@
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Data is more powerful when we share it with others! The goal of this project was to develop a website to present results from the Global Weather Data Analysis project. Since the completed project files were available in a GitHub repository, the necessary data and visualizations were imported directly from that location. HTML with Bootstrap CSS was used to generate, format, and link the individual webpages to form the completed website.
 
 ![Images/landingResize.png](Images/landingResize.png)
+
+### Questions
 
 ### Before You Begin
 
