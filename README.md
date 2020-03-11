@@ -23,7 +23,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
