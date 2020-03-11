@@ -17,6 +17,11 @@ In building this dashboard, we'll create individual pages for each plot and a me
 3. Develop a webpage presenting a comparison of the four visualizations.
 4. Develop a webpage presenting a table of the raw data used to create the four visualizations.
 
+### Datasets
+1. https://github.com/LolitaDias/Web-Design-Global-City-Latitude-Analysis/tree/master/Resources/assets/images
+2. https://openweathermap.org/api
+3. https://github.com/LolitaDias/Web-Design-Global-City-Latitude-Analysis/blob/master/Resources/cities.csv
+
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
