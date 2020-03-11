@@ -22,7 +22,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
 
 2. Clone the new repository to your computer.
-
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
