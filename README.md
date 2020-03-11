@@ -27,7 +27,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
 
-
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
