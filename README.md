@@ -25,7 +25,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
 
-4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
+
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
