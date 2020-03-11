@@ -8,7 +8,7 @@ Data is more powerful when we share it with others! The goal of this project was
 
 ### Questions
 
-### Before You Begin
+
 
 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
 
