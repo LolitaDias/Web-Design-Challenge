@@ -17,7 +17,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 3. Develop a webpage presenting a comparison of the four visualizations.
 4. Develop a webpage presenting a table of the raw data used to create the four visualizations.
 
-
 ### Website Requirements
 
 For reference, see the ["Screenshots" section](#screenshots) below.
