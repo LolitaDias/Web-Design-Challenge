@@ -22,7 +22,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ### Tasks
 
-### Website Requirements
+#### Website Requirements
 
 The website consists of pages, including:
 
@@ -50,7 +50,6 @@ The website at the top of every page, has a navigation menu that:
 4. Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
 Finally, the website has been deployed to GitHub pages.
-
 
 ### Considerations
 
