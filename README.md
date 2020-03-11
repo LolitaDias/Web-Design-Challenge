@@ -49,5 +49,6 @@ The website at the top of every page, has a navigation menu that:
 3. Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
 4. Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-Finally, the website has been deployed to GitHub pages.
+### Result
+Finally, the website has been deployed to GitHub pages: https://lolitadias.github.io/Web-Design-Global-City-Latitude-Analysis/
 
