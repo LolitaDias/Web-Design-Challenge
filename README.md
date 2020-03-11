@@ -22,11 +22,11 @@ In building this dashboard, we'll create individual pages for each plot and a me
 2. https://openweathermap.org/api
 3. https://github.com/LolitaDias/Web-Design-Global-City-Latitude-Analysis/blob/master/Resources/cities.csv
 
+### Tasks
+
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
-The website must consist of 7 pages total, including:
+The website consists of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
